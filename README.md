@@ -3,7 +3,7 @@
 - 🔭 Hoje estou em busca de ingressar no meu primeiro emprego 
 - 🌱 Atualmente estou estudando o ecossistema Spring (MVC e RESTful) juntamente com Angular e bootstrap 
 - 🎓 Formado em Técnico em Informática pela ETEC Raposo Tavares
-- 👨‍💻 Estudante de ciência da computação na UFSCar- Campos Sorocaba
+- 👨‍💻 Estudante de ciência da computação na UFSCar- Campus Sorocaba
 - 🥈 Vice-campeão do Hackathon CPS 2020 (Projeto E-trash)
 - 📫 Meu e-mail: danillosantiago32@gmail.com
 - 🎮 Game favorito: Counter-Strike
