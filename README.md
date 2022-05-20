@@ -1,6 +1,6 @@
 ### Olá visitante! 👋
 
-- 🔭 Hoje estou em busca de ingressar no meu primeiro emprego 
+- 🔭 Hoje estou em busca de me tornar um desenvolvedor júnior. 
 - 🌱 Atualmente estou estudando o ecossistema Spring (MVC e RESTful) juntamente com Angular e bootstrap 
 - 🎓 Formado em Técnico em Informática pela ETEC Raposo Tavares
 - 👨‍💻 Estudante de ciência da computação na UFSCar- Campus Sorocaba
